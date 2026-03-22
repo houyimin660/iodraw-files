@@ -147,10 +147,13 @@
           <mxGeometry x="152" y="-237" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-36" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.56" y="-42" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="81" y="-645" as="sourcePoint" />
-            <mxPoint x="131" y="-645" as="targetPoint" />
+            <mxPoint x="47" y="-641" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="81" y="-641" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
