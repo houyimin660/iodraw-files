@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z_qeBsOvjO2D6daomaRh-14">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.0015" y="-25" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="259" y="-386" as="sourcePoint" />
             <mxPoint x="309" y="-386" as="targetPoint" />
