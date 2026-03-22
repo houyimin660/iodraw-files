@@ -180,8 +180,14 @@
         <mxCell id="Z_qeBsOvjO2D6daomaRh-45" value="基于LLM增强的判别式反事实去偏双边公平推荐模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="571" y="-732" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z_qeBsOvjO2D6daomaRh-47" value="基于LLM增强的判别式反事实去偏双边公平推荐模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-47" target="Z_qeBsOvjO2D6daomaRh-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-47" value="结果展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="571" y="-602" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-49" value="结果展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="371" y="-602" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
