@@ -133,11 +133,14 @@
             <mxPoint x="309" y="-386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-32" target="Z_qeBsOvjO2D6daomaRh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-32" value="注册成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="152" y="-311" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_qeBsOvjO2D6daomaRh-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343" y="-378" width="120" height="60" as="geometry" />
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-34" value="注册成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="152" y="-191" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
