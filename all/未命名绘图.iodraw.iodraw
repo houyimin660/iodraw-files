@@ -73,8 +73,14 @@
         <mxCell id="Z_qeBsOvjO2D6daomaRh-14" value="用户输入手机号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="163" y="632" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_qeBsOvjO2D6daomaRh-16" value="用户输入手机号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="163" y="752" width="120" height="40" as="geometry" />
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-16" target="Z_qeBsOvjO2D6daomaRh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-16" value="用户设置登录密码" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="163" y="713" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-18" value="用户输入手机号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="163" y="833" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
