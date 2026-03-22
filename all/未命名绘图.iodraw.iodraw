@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-26" value="用户输入短信验证码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="149" y="-498" width="120" height="40" as="geometry" />
+          <mxGeometry x="149" y="-544" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-28" value="系统校验信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="159" y="-426" width="100" height="80" as="geometry" />
