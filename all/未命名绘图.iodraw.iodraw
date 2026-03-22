@@ -129,8 +129,8 @@
         <mxCell id="Z_qeBsOvjO2D6daomaRh-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="334" y="-107" as="sourcePoint" />
-            <mxPoint x="384" y="-107" as="targetPoint" />
+            <mxPoint x="271" y="-129" as="sourcePoint" />
+            <mxPoint x="321" y="-129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
