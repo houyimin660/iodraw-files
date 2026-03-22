@@ -110,7 +110,7 @@
           <mxGeometry x="147" y="-544" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-28" value="系统校验信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="157" y="-472" width="100" height="80" as="geometry" />
+          <mxGeometry x="157" y="-481" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-30" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
