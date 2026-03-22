@@ -104,10 +104,13 @@
             <mxPoint x="324" y="913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-25" target="Z_qeBsOvjO2D6daomaRh-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-25" value="用户点击获取&lt;div&gt;短信验证码&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166" y="987" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_qeBsOvjO2D6daomaRh-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-26" value="用户输入短信验证码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="166" y="1058" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
