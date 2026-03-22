@@ -131,6 +131,12 @@
             <mxPoint as="offset" />
             <mxPoint x="259" y="-386" as="sourcePoint" />
             <mxPoint x="309" y="-386" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="-386" />
+              <mxPoint x="260" y="-570" />
+              <mxPoint x="378" y="-570" />
+              <mxPoint x="378" y="-904" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-32" target="Z_qeBsOvjO2D6daomaRh-34">
