@@ -93,8 +93,8 @@
         <mxCell id="Z_qeBsOvjO2D6daomaRh-23" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="224" y="979" as="sourcePoint" />
-            <mxPoint x="224" y="1012" as="targetPoint" />
+            <mxPoint x="224" y="955" as="sourcePoint" />
+            <mxPoint x="224" y="988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
