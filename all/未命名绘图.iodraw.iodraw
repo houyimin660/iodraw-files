@@ -65,72 +65,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="-749" width="120" height="40" as="geometry" />
+          <mxGeometry x="146" y="-1005" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-14" target="Z_qeBsOvjO2D6daomaRh-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-14" value="用户输入手机号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="-668" width="120" height="40" as="geometry" />
+          <mxGeometry x="146" y="-924" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-16" target="Z_qeBsOvjO2D6daomaRh-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-16" value="用户设置登录密码" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="-587" width="120" height="40" as="geometry" />
+          <mxGeometry x="146" y="-843" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-18" target="Z_qeBsOvjO2D6daomaRh-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="218" y="-406" as="targetPoint" />
+            <mxPoint x="206" y="-662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-18" value="用户再次&lt;div&gt;输入密码进行确认&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="-506" width="120" height="40" as="geometry" />
+          <mxGeometry x="146" y="-762" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-22" value="密码两次&lt;div&gt;输入一致&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="168" y="-427" width="100" height="80" as="geometry" />
+          <mxGeometry x="156" y="-683" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-23" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="218" y="-347" as="sourcePoint" />
-            <mxPoint x="218" y="-314" as="targetPoint" />
+            <mxPoint x="206" y="-603" as="sourcePoint" />
+            <mxPoint x="206" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-24" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="269" y="-387" as="sourcePoint" />
-            <mxPoint x="319" y="-387" as="targetPoint" />
+            <mxPoint x="257" y="-643" as="sourcePoint" />
+            <mxPoint x="307" y="-643" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-25" target="Z_qeBsOvjO2D6daomaRh-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-25" value="用户点击获取&lt;div&gt;短信验证码&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="-313" width="120" height="40" as="geometry" />
+          <mxGeometry x="149" y="-569" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-26" target="Z_qeBsOvjO2D6daomaRh-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-26" value="用户输入短信验证码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="-242" width="120" height="40" as="geometry" />
+          <mxGeometry x="149" y="-498" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-28" value="系统校验信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="171" y="-170" width="100" height="80" as="geometry" />
+          <mxGeometry x="159" y="-426" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-30" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="221" y="-89" as="sourcePoint" />
-            <mxPoint x="221" y="-56" as="targetPoint" />
+            <mxPoint x="209" y="-345" as="sourcePoint" />
+            <mxPoint x="209" y="-312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="271" y="-129" as="sourcePoint" />
-            <mxPoint x="321" y="-129" as="targetPoint" />
+            <mxPoint x="259" y="-386" as="sourcePoint" />
+            <mxPoint x="309" y="-386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
