@@ -88,7 +88,7 @@
           <mxGeometry x="146" y="-799" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-22" value="密码两次&lt;div&gt;输入一致&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="156" y="-683" width="100" height="80" as="geometry" />
+          <mxGeometry x="156" y="-727" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z_qeBsOvjO2D6daomaRh-23" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -139,12 +139,13 @@
         <mxCell id="Z_qeBsOvjO2D6daomaRh-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="152" y="-237" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z_qeBsOvjO2D6daomaRh-36" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z_qeBsOvjO2D6daomaRh-18">
+        <mxCell id="Z_qeBsOvjO2D6daomaRh-36" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z_qeBsOvjO2D6daomaRh-22" target="Z_qeBsOvjO2D6daomaRh-18">
           <mxGeometry x="-0.0138" y="24" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="141" y="-642" as="sourcePoint" />
             <mxPoint x="131" y="-778" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="156" y="-642" />
               <mxPoint x="81" y="-642" />
               <mxPoint x="81" y="-779" />
             </Array>
