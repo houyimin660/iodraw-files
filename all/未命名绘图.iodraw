@@ -61,11 +61,10 @@
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9uHRTiJkgEZ3XfzqnmER-1">
           <mxGeometry y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9uHRTiJkgEZ3XfzqnmER-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=4;" edge="1" parent="1" source="9uHRTiJkgEZ3XfzqnmER-18" target="9uHRTiJkgEZ3XfzqnmER-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9uHRTiJkgEZ3XfzqnmER-18" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="146" y="-1005" width="120" height="40" as="geometry" />
+        <mxCell id="9uHRTiJkgEZ3XfzqnmER-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpSize=4;" edge="1" parent="1" target="9uHRTiJkgEZ3XfzqnmER-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="-965" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9uHRTiJkgEZ3XfzqnmER-20" target="9uHRTiJkgEZ3XfzqnmER-22">
           <mxGeometry relative="1" as="geometry" />
