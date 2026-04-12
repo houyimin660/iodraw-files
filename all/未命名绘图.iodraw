@@ -204,11 +204,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9uHRTiJkgEZ3XfzqnmER-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9uHRTiJkgEZ3XfzqnmER-55" target="9uHRTiJkgEZ3XfzqnmER-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9uHRTiJkgEZ3XfzqnmER-55" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="-1114" width="120" height="40" as="geometry" />
+        <mxCell id="9uHRTiJkgEZ3XfzqnmER-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9uHRTiJkgEZ3XfzqnmER-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1217" y="-1074" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9uHRTiJkgEZ3XfzqnmER-57" target="9uHRTiJkgEZ3XfzqnmER-59">
           <mxGeometry relative="1" as="geometry" />
@@ -253,7 +252,7 @@
           <mxGeometry x="147" y="-1010" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-71" value="开始" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-1040" width="120" height="43" as="geometry" />
+          <mxGeometry x="571" y="-1030" width="120" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
