@@ -254,6 +254,9 @@
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-71" value="开始" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="571" y="-1030" width="120" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="9uHRTiJkgEZ3XfzqnmER-72" value="开始" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="-1120" width="120" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
