@@ -188,6 +188,9 @@
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9uHRTiJkgEZ3XfzqnmER-50" target="9uHRTiJkgEZ3XfzqnmER-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9uHRTiJkgEZ3XfzqnmER-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9uHRTiJkgEZ3XfzqnmER-50" target="9uHRTiJkgEZ3XfzqnmER-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-50" value="结果展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="571" y="-642" width="120" height="50" as="geometry" />
         </mxCell>
@@ -258,6 +261,9 @@
         </mxCell>
         <mxCell id="9uHRTiJkgEZ3XfzqnmER-72" value="开始" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1157" y="-1120" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="9uHRTiJkgEZ3XfzqnmER-74" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="591" y="-527" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
